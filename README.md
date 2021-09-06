@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/coo990/](https://github.com/coo990/)
+- 👨‍💻 All of my projects are available at [github.com/coo990](github.com/coo990/)
 
-- 📝 I regularly write articles on [https://chukaokoye93.medium.com/](https://chukaokoye93.medium.com/)
+- 📝 I regularly write articles on [chukaokoye93.medium.com](chukaokoye93.medium.com/)
 
-- 📄 Know about my experiences [https://github.com/coo990/CV](https://github.com/coo990/CV)
+- 📄 Know about my experiences [github.com/coo990/CV](github.com/coo990/CV)
 
 - ⚡ Fun fact **Pizza is my favourite but I hate cheese...**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chuka-okoye-ahaneku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chuka-okoye-ahaneku" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chuka-okoye-ahaneku-682ba7b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chuka-okoye-ahaneku" height="30" width="40" /></a>
 <a href="https://medium.com/@chukaokoye93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chukaokoye93" height="30" width="40" /></a>
 </p>
 
