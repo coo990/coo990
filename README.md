@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [github.com/coo990](github.com/coo990/)
+- 👨‍💻 All of my projects are available at [github.com/coo990](https://github.com/coo990?tab=repositories)
 
 - 📝 I regularly write articles on [chukaokoye93.medium.com](chukaokoye93.medium.com/)
 
