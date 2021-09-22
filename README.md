@@ -7,9 +7,9 @@
 
 - 📝 I regularly write articles on [chukaokoye93.medium.com](chukaokoye93.medium.com/)
 
-- 📄 Know about my experiences [github.com/coo990/CV](https://github.com/coo990/CV)
+- 📄 Know about my experiences: [github.com/coo990/CV](https://github.com/coo990/CV)
 
-- ⚡ Fun fact **Pizza is my favourite dish but I hate cheese...**
+- ⚡ Fun fact: **Pizza is my favourite dish but I hate cheese...**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
