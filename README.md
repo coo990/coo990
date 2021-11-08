@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [#Week 11–12 — Season Finale](https://chukaokoye93.medium.com/week-11-12-season-finale-9af0d456d231?source=rss-5a6be8236bbf------2)
 - [#Week 10 — Consolidation Week](https://chukaokoye93.medium.com/week-10-consolidation-week-d411639fd631?source=rss-5a6be8236bbf------2)
-- [#Week 8 & 9 — Crossing the Railway](https://chukaokoye93.medium.com/week-8-9-crossing-the-railway-60cd0b2217fe?source=rss-5a6be8236bbf------2)
+- [#Week 8 &amp; 9 — Crossing the Railway](https://chukaokoye93.medium.com/week-8-9-crossing-the-railway-60cd0b2217fe?source=rss-5a6be8236bbf------2)
 - [#Week 7 — “Bring your Notepad…”](https://chukaokoye93.medium.com/week-7-bring-your-notepad-4acbd1af699?source=rss-5a6be8236bbf------2)
 <!-- BLOG-POST-LIST:END -->
 
