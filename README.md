@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chuka</h1>
 <h3 align="center">An aspiring Software Developer from London</h3>
 
-- 🌱 I’m currently learning **Rails and Solidity**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [github.com/coo990](https://github.com/coo990?tab=repositories)
 
