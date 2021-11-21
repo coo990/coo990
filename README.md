@@ -12,21 +12,21 @@ after previously working in sales for start-up companies for the past four years
 - [#Week 7 — “Bring your Notepad…”](https://chukaokoye93.medium.com/week-7-bring-your-notepad-4acbd1af699?source=rss-5a6be8236bbf------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Projects
+## Projects
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Tonight's Dinner][5] | An individual project made after graduating from Makers. A web app that allows me to input and store the dinners I cook in the evening, helpful for tracking what I eat and what I can make. Targeted at those that trouble with what to make for dinner, with a feature that displays a random food input when clicked. | Ruby on Rails, Capybara, Bootstrap, HTML, CSS |
 | [Pin My Hike][1] | A webapp that allows users to "pin" and save their favourite hikes in real-time, also has a function that shows their current location in case they are stuck on a route. Suited for outdoor users who need to highlight their travels in more detail and share. | MERN, Javascript, ESLint, CircleCI |
 | [MakersBnB][3] | A replication of the Airbnb platform, where users can find local holiday/rental spaces. Suited for holiday-makers and travellers if they want to stay at a local home-stay instead of hotels.  | Ruby, Capybara, HTML, CSS |
 
-### Skills
+## Skills
 - **Enthusiasm** - I am always eager to contribute to a project, unafraid to add my ideas to a conversation, like enquiring about which coding tasks are more important. 
 - **Teamwork** - I enjoy working in both team environments whilst being confident enough to work independently. Always getting positive feedback during pair programming sessions and team projects.
 - **Written and Verbal Communication Skills** - I held multiple presentations on business development plans at my previous jobs and wrote a [blog][4] that details my entire 12-week Makers Academy duration.
 - **Attention to detail** - I am good at spotting key items when doing code reviews or pair programming, which has dramatically improved when debugging.
 - **Flexibility** - Easily adaptable to taking on available duties, and very comfortable working with new people effectively.
 
-### Work Experience
+## Work Experience
 
 **Singular** (January 2019 to April 2021)  
 *Sales Development Representative*
@@ -45,7 +45,7 @@ after previously working in sales for start-up companies for the past four years
 
 - Participated in cold-calling, email outreach and website interactions with prospects to gather interest for our solutions.
  
-### Education
+## Education
 
 #### Makers Academy (April 2021 - August 2021)
 After my years working for technology companies, I decided to join the highly selective 12 week intensive coding bootcamp.
