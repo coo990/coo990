@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chuka</h1>
-I am a recent bootcamp graduate from [Makers Academy](https://makers.tech/) based in London, I knew I wanted to be a developer from a young age due to my passion for technology and my want to solve real-world issues. I am a dedicated, enthusiastic and career-driven individual, who is always eager to learn and take on new challenges.
+I am a recent bootcamp graduate from Makers Academy based in London, I knew I wanted to be a developer from a young age due to my passion for technology and my want to solve real-world issues. I am a dedicated, enthusiastic and career-driven individual, who is always eager to learn and take on new challenges.
 
-I pride myself on my soft skills of attention to detail, teamwork and communication
+<br>I pride myself on my soft skills of attention to detail, teamwork and communication
 after previously working in sales for start-up companies for the past four years, and now I’m looking to use my transferrable skills in my career as a Software Developer.
 
 ### Blogs posts
@@ -69,6 +69,7 @@ After my years working for technology companies, I decided to join the highly se
 [3]: https://github.com/frank-mck/MakerBnB
 [4]: https://chukaokoye93.medium.com/
 [5]: https://github.com/coo990/tonights-dinner
+[6]: https://makers.tech/
 
 
 <h3 align="left">Connect with me:</h3>
