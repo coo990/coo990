@@ -27,7 +27,7 @@ I am a Junior Fullstack Software Engineer based in London. After four years in s
 *Sales Development Representative*
 - Working in a technology start-up allowed me to get a greater understanding of the industry, I was responsible for driving new business opportunities across the EMEA region by both prospecting to relevant organisations and running meetings for qualification.
 
-- Proficient in Salesforce, I constantly used my attention to detail and written skills when emailing and used LinkedIn to generate leads and outreach, which was integral to my success. I also created an interactive Excel table to assist in tracking my distribution of meetings created with Account Managers.
+- Proficient in Salesforce, I constantly used my attention to detail and written skills when emailing prospects and used LinkedIn to generate leads and outreach, which was integral to my success. I also created an interactive Excel table to assist in tracking my distribution of meetings created with Account Managers.
 
 - Won 'Top SDR Q3 2019' with creating over $750,000 in sales pipeline due to my dedication to achieve and surpass my targets. My tenacity led to producing the most amount of meetings and driving new business opportunities.
 
