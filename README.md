@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chuka</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Chuka</h1>
 I am a Junior Fullstack Software Engineer based in London. After four years in sales, I became a software developer because of my passion for technology and desire to solve real-world problems. In addition to my dedication, enthusiasm, and career-driven nature, I love to learn new skills and take on new challenges.
 
 <br>It is my strength to pay attention to details, work well in teams, and communicate effectively. As I mentioned previously, my previous work experience was in sales for start-up companies for the last four years, and now I am interested in applying those skills to my career as a Software Developer.
