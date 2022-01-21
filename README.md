@@ -29,7 +29,7 @@ I am a Junior Fullstack Software Engineer based in London. After four years in s
 
 - Proficient in Salesforce, I constantly used my attention to detail and written skills when emailing prospects and used LinkedIn to generate leads and outreach, which was integral to my success. I also created an interactive Excel table to assist in tracking my distribution of meetings created with Account Managers.
 
-- Won 'Top Global SDR Q3 2019' with creating over $750,000 in sales pipeline due to my dedication to achieve and surpass my targets. My tenacity led to producing the most amount of meetings and driving new business opportunities.
+- Won 'Top Global SDR Q3 2019' by creating over $750,000 in sales pipeline due to my dedication to achieve and surpass my targets. My tenacity led to producing the most amount of meetings and driving new business opportunities.
 
 **Eccella/NGDATA** (February 2017 to July 2018)  
 *Inside Sales Representative*
