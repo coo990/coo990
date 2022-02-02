@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Chuka</h1>
-As a Junior Full-Stack Developer based in London, I have experience with both web and database technologies. Due to my passion for technology from an early age and a desire to solve real-world problems, I became a software developer after working in sales for four years. As well as my dedication, enthusiasm, and career-driven nature, I enjoy learning new skills and taking on new challenges.
+I am a Junior Full-Stack Developer based in London, with experience in both web and database technologies. Due to my passion for technology from an early age and a desire to solve real-world problems, I became a software developer after working in sales for four years for start-ups. As well as my dedication, enthusiasm, and career-driven nature, I enjoy learning new skills and taking on new challenges.
 
 <br>It is my strength to pay attention to details, work well in teams, and communicate effectively. As I mentioned previously, I have been involved in sales for start-up companies for the last four years, and I am now looking forward to applying those skills towards my career as a Software Developer.
 
