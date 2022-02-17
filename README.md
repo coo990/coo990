@@ -74,7 +74,7 @@ After my years working for technology companies, I decided to join the highly se
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coo990&show_icons=true&locale=en" alt="coo990" /></p>
 
-### Blogs posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [#Week 11–12 — Season Finale](https://chukaokoye93.medium.com/week-11-12-season-finale-9af0d456d231?source=rss-5a6be8236bbf------2)
 - [#Week 10 — Consolidation Week](https://chukaokoye93.medium.com/week-10-consolidation-week-d411639fd631?source=rss-5a6be8236bbf------2)
